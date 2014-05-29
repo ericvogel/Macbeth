@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=newX\ newY\ newTurns\ newAIName\ newMessage1\ newMessage2
+comment0.target=GameAI(int,\ int,\ boolean,\ java.lang.String,\ TextBox,\ TextBox)
+comment1.params=newX\ newY\ newTurns\ newFades\ newAIName\ newMessage1\ newMessage2
+comment1.target=GameAI(int,\ int,\ boolean,\ boolean,\ java.lang.String,\ TextBox,\ TextBox)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=directionToLook
+comment3.target=void\ displayMessage(java.lang.String)
+numComments=4
